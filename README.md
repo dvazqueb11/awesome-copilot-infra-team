@@ -1,6 +1,6 @@
 # awesome-copilot-infra
 
-A curated collection of GitHub Copilot agents, skills, prompts, and coding instructions built for the HSBC Infrastructure team. This repository follows the GitHub awesome-copilot pattern, tailored specifically for teams working with Python and Ansible to automate cloud infrastructure provisioning, configuration management, and operational workflows.
+A curated collection of GitHub Copilot agents, skills, prompts, and coding instructions built for the Infrastructure team. This repository follows the GitHub awesome-copilot pattern, tailored specifically for teams working with Python and Ansible to automate cloud infrastructure provisioning, configuration management, and operational workflows.
 
 Use this repository as a Copilot CLI plugin to get purpose-built AI assistance that understands your team's standards, patterns, and toolchain.
 
