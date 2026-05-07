@@ -1,0 +1,7 @@
+{
+  "name": "awesome-copilot-infra",
+  "description": "Curated Copilot agents, skills, and prompts for infrastructure automation with Python and Ansible",
+  "version": "1.0.0",
+  "author": { "name": "HSBC Infrastructure Team" },
+  "keywords": ["ansible", "python", "infrastructure", "automation", "playbooks"]
+}
